@@ -1,5 +1,9 @@
 # Next-Scraper
 **Scrapes Next (Fashion Based Website) Product data**
+
+
+![Next_Scraper_Running_Demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/71a8af07-5b70-4990-a3f6-cd49e22c104b)
+
 ## **How to Run the Script**  
 
 1. **Download the Files**  
